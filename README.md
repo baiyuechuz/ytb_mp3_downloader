@@ -21,7 +21,8 @@
 1. Download scirpts:
 
 - Option 1: clone this repo and after run file `yt.ps1`
-- Option 2: create a folder - copy content in file `yt.ps1` 
+- Option 2: create a folder - copy content in file `yt.ps1`
+- Option 3: download file script `yt.ps1` from release page at [here](https://github.com/baiyuechuz/ytb_mp3_downloader/releases/tag/script_file) to a folder
 
 2. Open terminal and run the script:
    ```powershell
