@@ -18,10 +18,10 @@
 
 ## Quick Start
 
-1. Download the script:
-   ```powershell
-   # Clone or download yt.ps1 to any folder
-   ```
+1. Download scirpts:
+
+- Option 1: clone this repo and after run file `yt.ps1`
+- Option 2: create a folder - copy content in file `yt.ps1` 
 
 2. Open terminal and run the script:
    ```powershell
